@@ -162,4 +162,16 @@ body{
     animation-duration:2s;
     animation-iteration-count: infinite;
 }
+.aviso--gigante {
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+    animation-name: pisca;
+    animation-duration:2s;
+    animation-iteration-count: infinite;
+}
 

@@ -30,7 +30,7 @@ let etapas=[
   // candidatos a prefeito
     {
         titulo: 'PREFEITO',
-        numero: 2,
+        numeros: 2,
         candidatos: [
             {
                 numero: '99',
@@ -38,7 +38,7 @@ let etapas=[
                 partido: 'ABC',
                 vice: 'Cic',
                 fotos: [
-                     {url:'99.jpg', legenda: 'Prefeito'},
+                     {url:'foto-1-2-2.jpg', legenda: 'Prefeito'},
                      {url: '99_2_jpg', legenda: 'Vice-prefeito', small: true}
                 ]
             },
@@ -48,7 +48,7 @@ let etapas=[
                 partido: 'QWERTY',
                 vice:'Zul', 
                 fotos: [
-                    {url: '84_jpg', legenda: 'Prefeito'},
+                    {url: 'foto-1-1.jpg', legenda: 'Prefeito'},
                     {url: '84-2.jpg', legenda: 'Vice-Prefeito', samll: true}
                 ]
             },    
